@@ -12,7 +12,7 @@ up about 4 events. Instead, it simply *always* drops a health pickup, just
 at a random position from `irandom(-2,2)*999`, which puts it off the map
 80% of the time.
 
-**outro.png** - Using built-in physics mechanisms, we were able to create
+**outro.png** - Using built-in physics, we were able to create
 an animated outro using only 1 event. (See outro.gif to see it in action :) )
 
 **player-rolling.png and player-rolling-end.png** - By transforming the
